@@ -13,7 +13,7 @@ php:
   - 7.3
   - 7.4
   - 8.0
-  - nightly 
+  - nightly
 
 
 # setting the env is the easiest, because it will mix with all the separate php versions (travis does this)
